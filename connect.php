@@ -1,6 +1,6 @@
 <?php
 	// establish connection to DB
-	$host = "bbtransit2.ctxzlyyuaidg.us-east-2.rds.amazonaws.com";
+	$host = "...link to AWS server...";
 	$user = "bbtransit";
 	$pass = "bbtransit";
 	$db_name = "bbtransit";
