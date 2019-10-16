@@ -12,6 +12,7 @@ let userPosition = {lat: 0, lon: 0};
 
 ip();
 
+// this api key is ded, so it don't rlly matter if u remove it or keep it...
 function ip() {
     $.getJSON("https://jsonip.com?callback=?", function(data) {
         fetch("https://geo.ipify.org/api/v1?apiKey=at_XXb8IeW0xwKRCEHsFcPk1a2117qub&ipAddress=" + data.ip)
