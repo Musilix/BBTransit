@@ -1,6 +1,6 @@
 # :bus: BBTransit :bus:
 
-<p align="center"><img src="./preview/web_prev.png" width="70%" height="445"/>&nbsp;&nbsp;<img src="./preview/mob_prev.png" width="25%" height="445"/></p>
+<p align="center"><img src="./preview/web_prev.png" width="70%" height="100%"/>&nbsp;&nbsp;<img src="./preview/mob_prev.png" width="25%" height="20%"/></p>
 
 BBTransit is a web based transport alert app that aims to simplify the daily life of a commuter by offering access to simple yet meaningful info such as bus arrival times, destinations, locations, and their adherence to the schedule; all in real time.
 
